@@ -1,0 +1,25 @@
+_repo: Primus-Annus_56651
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mainwaring, Cyril Lyttleton
+    gutenberg_agent_id: '48972'
+    url: http://www.gutenberg.org/2009/agents/48972
+  - agent_name: Paine, Walter Lionel
+    gutenberg_agent_id: '48971'
+    url: http://www.gutenberg.org/2009/agents/48971
+description: ''
+gutenberg_issued: '2018-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56651'
+language:
+- la
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Primus Annus
+url: http://www.gutenberg.org/ebooks/56651
